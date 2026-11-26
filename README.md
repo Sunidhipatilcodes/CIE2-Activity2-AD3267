@@ -232,3 +232,19 @@ diagnosis or decision-making.
    https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 4. Scikit-learn -- DummyClassifier:
    https://scikit-learn.org/stable/modules/generated/sklearn.dummy.DummyClassifier.html
+11. GitHub submission
+Create a separate public GitHub repository for Activity 2. Use a
+repository name that identifies the activity and your roll number, for
+example:
+
+CIE2-Activity2-AD3267
+
+The activity instructions also ask students to include this submission
+reference:
+
+complexiota GitHub
+
+Before submitting, confirm that the repository is public and that its
+URL opens in an incognito/private browser window without requesting
+access. Do not upload passwords, API keys, confidential information or
+personal data.
